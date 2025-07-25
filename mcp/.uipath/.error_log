@@ -1,0 +1,14 @@
+
+--- Authentication Error Log 2025-07-25 08:33:48 ---
+[
+  {
+    "timestamp": "2025-07-25T08:33:48.063Z",
+    "message": "Params:",
+    "params": {
+      "code": "53ebeafe-6a68-45c0-bd3c-d69ba4aa349e.F66D6421F69025E304CAA399C05D84337F797C1A0C834001EB8CD3F901B8783A",
+      "scope": "offline_access OrchestratorApiUserAccess IdentityServerApi ConnectionService DataService DocumentUnderstanding EnterpriseContextService Directory JamJamApi LLMGateway LLMOps OMS RCS.FolderAuthorization TM.Projects TM.TestCases TM.Requirements TM.TestSets",
+      "state": "K2tozAF-NjF7BVp499W_27jgu52FuBcQAvzKIPuh6TI",
+      "iss": "https://cloud.uipath.com/identity_"
+    }
+  }
+]

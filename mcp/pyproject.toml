@@ -1,0 +1,9 @@
+[project]
+name = "math-server"
+version = "0.0.1"
+description = "Description for math-server project"
+authors = [{ name = "Sindhujamallappa", email = "sindhujamallappa@gmail.com" }]
+dependencies = [
+    "uipath-mcp>=0.0.101",
+]
+requires-python = ">=3.11"
